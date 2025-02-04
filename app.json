@@ -2,7 +2,7 @@
   "expo": {
     "name": "app_band",
     "slug": "app_band",
-    "version": "1.0.0 Main",
+    "version": "1.0.0",
     "orientation": "portrait",
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
