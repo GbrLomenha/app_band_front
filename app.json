@@ -7,6 +7,10 @@
     "scheme": "myapp",
     "userInterfaceStyle": "dark",
     "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/images/splash-icon.svg",
+      "backgroundColor": "#063E45"
+    },
     "ios": {
       "supportsTablet": true
     },
