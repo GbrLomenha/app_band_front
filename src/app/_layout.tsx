@@ -2,7 +2,7 @@ import { useFonts, Montserrat_100Thin, Montserrat_200ExtraLight, Montserrat_300L
 import * as SplashScreen from "expo-splash-screen";
 import { useEffect } from "react";
 import { Slot } from "expo-router";
-import '../global.css'
+import '../../global.css'
 
 SplashScreen.preventAutoHideAsync();
 

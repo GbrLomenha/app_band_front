@@ -1,4 +1,4 @@
-import { colors } from './scr/assets/styles/colors'
+import { colors } from './src/styles/colors'
 
 /** @type {import('tailwindcss').Config} */
 module.exports = {
